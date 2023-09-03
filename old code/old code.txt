@@ -1,0 +1,29 @@
+<article class="card">
+                <header class="card-header">
+                <p>Jan 27th 2021</p>
+                <h2>Karlson</h2>
+                </header>
+
+                <section class="card-cover">
+                    <img src="images/Karlson_cover.png">
+                </section>
+
+                <div class="card-author">
+                    <a class="author-avatar" href="#">
+                        <img src="images/Dani-logo.png"/>
+                    </a>
+                <svg class="half-circle" viewBox="0 0 106 57">
+                    <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+                </svg>
+
+                <div class="author-name">
+                    <div class="author-name-prefix">Devoloper</div>
+                    Dani
+                </div>
+                </div>
+                <div class="tags">
+                <a href="#">PARKOUR</a>
+                <a href="#">MILK</a>
+                <a href="#">FPS</a>
+                </div>
+            </article>

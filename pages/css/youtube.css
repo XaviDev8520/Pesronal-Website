@@ -1,0 +1,25 @@
+.yt-minor {
+    padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
+@media only screen and (min-width: 750px) {
+    .yt-major {
+        width: 560px;
+        height: 315px;
+    }
+
+    .yt-minor {
+        width: 420px;
+        height: 236.25px;
+    }
+}
+@media only screen and (max-width: 750px) {
+    .yt-major {
+        width: 90%;
+        height: auto;
+    }
+
+    .yt-minor {
+        width: 280px;
+        height: 157.5px;
+    }
+}
